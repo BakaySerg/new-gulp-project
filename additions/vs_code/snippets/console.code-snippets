@@ -1,0 +1,9 @@
+{
+	"console": {
+		"prefix": "cns",
+		"body": [
+		  "console.log(${1});"
+		],
+		"description": "console"
+	}
+}

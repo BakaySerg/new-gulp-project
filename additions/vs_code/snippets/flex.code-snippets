@@ -1,0 +1,12 @@
+{
+	"flex": {
+		"prefix": "f--",
+		"body": [
+		  "display: flex;",
+		  "justify-content: center;",
+		  "align-items: center;",
+		  "${1:$}"
+		],
+		"description": "flex"
+	 }
+}

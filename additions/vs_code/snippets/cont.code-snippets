@@ -1,0 +1,9 @@
+{
+	"sec": {
+		"prefix": "cont",
+		"body": [
+			"<div class=\"container\">\n\t<div class=\"row\">$1</div>\n</div>"
+		],
+		"description": "Container"
+	}
+}

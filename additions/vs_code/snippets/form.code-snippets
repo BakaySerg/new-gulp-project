@@ -1,0 +1,27 @@
+{
+	"form": {
+		"prefix": "frm",
+		"body": [
+		  "<form action=\"#\" class=\"form\">",
+		  "   <label>",
+		  "      <span>Name*${1}</span>",
+		  "      <input type=\"text\" name=\"name\" placeholder=\"Enter your name\">",
+		  "   </label>",
+		  "   <label>",
+		  "      <span>Email*</span>",
+		  "      <input type=\"email\" name=\"email\" placeholder=\"Enter your email\" required>",
+		  "   </label>",
+		  "   <label>",
+		  "      <span>Phone</span>",
+		  "      <input type=\"tel\" name=\"tel\" placeholder=\"Enter your phone\">",
+		  "   </label>",
+		  "   <label>",
+		  "      <span>Message*</span>",
+		  "      <textarea name=\"message\" cols=\"30\" rows=\"10\" placeholder=\"Enter your text\"></textarea>",
+		  "   </label>",
+		  "   <button class=\"btn\" type=\"submit\">submit</button>",
+		  "</form>"
+		],
+		"description": "form"
+	}
+}

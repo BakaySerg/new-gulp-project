@@ -1,0 +1,9 @@
+{
+	"media": {
+		"prefix": "@--",
+		"body": [
+		  "@media (m${1:ax}-width: ${2:991}px){${3}}"
+		],
+		"description": "media"
+	 }
+}

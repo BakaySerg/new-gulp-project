@@ -1,0 +1,10 @@
+{
+	"sec": {
+		"prefix": "sec",
+		"body": [
+		  "<!-- ${1} -->",
+		  "<section class=\"${1}\">${2}</section>"
+		],
+		"description": "sec"
+	 }
+}

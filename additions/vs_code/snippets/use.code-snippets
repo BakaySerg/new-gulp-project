@@ -1,0 +1,9 @@
+{
+	"use": {
+		"prefix": "use",
+		"body": [
+		  "<svg viewBox=\"0 0 32 32\"><use xlink:href=\"#i-${1:example}\"/></svg>"
+		],
+		"description": "use"
+	 }
+}
